@@ -1,0 +1,59 @@
+[33mcommit 5b3bf78633308e9b040d5e2fc35223d7640d05e6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Evan Fantozzi <evanfantozzi@uchicago.edu>
+Date:   Thu Aug 29 14:10:40 2024 -0500
+
+    Filled in pt 3
+
+[33mcommit 644e2d343b1b80a87116d349af91828f8e231795[m
+Author: Evan Fantozzi <evanfantozzi@uchicago.edu>
+Date:   Thu Aug 29 13:58:29 2024 -0500
+
+    part 1 done!
+
+[33mcommit bc5f3e7177ac4e67d57f94971014399921d31b09[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Evan Fantozzi <evanfantozzi@uchicago.edu>
+Date:   Thu Aug 29 13:48:28 2024 -0500
+
+    Adds name to README
+
+[33mcommit 85f1cdc1e0aa69ed42d390a9c53bb16890562289[m
+Author: Launa Greer <greerlauna@gmail.com>
+Date:   Tue Aug 27 15:28:55 2024 -0500
+
+    Generates output file on last check to facilitate Gradescope assignment
+
+[33mcommit ffc95f4fc208037f2b03fde421c3bbe929a807c8[m
+Author: Launa Greer <launagreer@uchicago.edu>
+Date:   Tue Aug 27 14:11:24 2024 -0500
+
+    Update README.md for spelling, grammar fixes
+
+[33mcommit c26f78c296e247323b7388445d77e683f0cce67a[m
+Author: Launa Greer <launagreer@uchicago.edu>
+Date:   Tue Aug 27 14:03:28 2024 -0500
+
+    Update README.md to include note on final check, Gradescope submission
+
+[33mcommit 019109a0aff8191772e4823380f3496f55159a02[m
+Author: Launa Greer <launagreer@uchicago.edu>
+Date:   Tue Aug 27 13:29:48 2024 -0500
+
+    Update README.md
+
+[33mcommit c5a433a9d243d0f58bf37c5eec13ee75fdd0e31c[m
+Author: Launa Greer <greerlauna@gmail.com>
+Date:   Tue Aug 27 13:01:47 2024 -0500
+
+    this commit removes the secret
+
+[33mcommit ccadfb33f32e2c044ca6d50511c8d2a746b32318[m
+Author: Launa Greer <greerlauna@gmail.com>
+Date:   Tue Aug 27 13:01:12 2024 -0500
+
+    part 4
+
+[33mcommit c5f8c6db962f3859d211e1786942ad22d5d086b8[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Aug 27 15:50:58 2024 +0000
+
+    Initial commit
